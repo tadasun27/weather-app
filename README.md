@@ -1,8 +1,8 @@
-# weather-app
+# Weather App Exercise
 
 Attended JavaScript Workshop for Beginners Workshop Presented by React Vancouver on Feb 18,2017
 
-Workshop Outline
+## Workshop Outline
 - Introduction to Programming
 - JavaScript Data Structures
 - Object Oriented Programming
